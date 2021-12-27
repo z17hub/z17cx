@@ -5,7 +5,7 @@
 ## Данные
 
 - **Имя:** Юрий Дунаев
-- **Псевдоним:** z17 CX
+- **Псевдоним:** [z17 CX](https://keybase.io/z17cx)
 - **Контакты:** [z17 IM](https://z17.im) <code class="print">https://z17.im</code>
 
 ---
