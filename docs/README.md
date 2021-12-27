@@ -1,0 +1,147 @@
+Приветствую!
+Я **системный администратор** и **веб-разработчик** и на этой странице указана информация обо мне и моих работах.
+
+## Данные
+
+- **Имя:** Юрий Дунаев
+- **Псевдоним:** z17 CX
+- **Контакты:** [z17 IM](https://z17.im) <code class="print">https://z17.im</code>
+
+---
+
+## Системный администратор
+
+Администрирую системы на платформе:
+
+- Windows Server
+- Debian / Ubuntu
+- CentOS / Oracle Linux
+- Fedora
+
+Имеются собственные репозитории (собираю и обновляю пакеты):
+
+- Debian
+  - [OBS](https://build.opensuse.org/project/show/home:pkgstore:deb) <code class="print">https://build.opensuse.org/project/show/home:pkgstore:deb</code>
+- CentOS / Fedora
+  - [COPR](https://copr.fedorainfracloud.org/coprs/pkgstore/) <code class="print">https://copr.fedorainfracloud.org/coprs/pkgstore</code>
+
+Устанавливаю и настраиваю компоненты системы, например, такие как:
+
+- Apache
+- NGINX
+- Elasticsearch
+- Memcached
+- Redis
+- MongoDB
+- MySQL / MariaDB
+- VsFTPD
+- Icecast
+- ... и многие другие.
+
+## Веб-разработчик
+
+Являюсь автором модулей к движкам сайтов и форумов:
+
+- [Drupal](https://github.com/search?q=topic:drupal+org:pkgstore&type=Repositories) <code class="print">https://github.com/search?q=topic:drupal+org:pkgstore&type=Repositories</code>
+- [Flarum](https://github.com/search?q=topic:flarum+org:pkgstore&type=Repositories) <code class="print">https://github.com/search?q=topic:flarum+org:pkgstore&type=Repositories</code>
+- [MediaWiki](https://github.com/search?q=topic:mediawiki+org:pkgstore&type=Repositories) <code class="print">https://github.com/search?q=topic:mediawiki+org:pkgstore&type=Repositories</code>
+- [XenForo](https://github.com/search?q=topic:xenforo+org:pkgstore&type=Repositories) <code class="print">https://github.com/search?q=topic:xenforo+org:pkgstore&type=Repositories</code>
+
+Создатель [русской локализации](https://discuss.flarum.org/d/1545) <code class="print">https://discuss.flarum.org/d/1545</code> движка [Flarum](https://flarum.org/).
+
+### Навыки
+
+- HTML
+- CSS
+- JavaScript
+- PHP
+- Git
+- Shell
+
+---
+
+## Компетентность
+
+Какие знаю технологии.
+
+### Операционные системы
+
+- [Windows](https://microsoft.com/windows)  
+  Грешно не знать самую популярную систему на персональных компьютерах.
+- [Windows Server](https://microsoft.com/windows-server)  
+  В некоторых случаях использовал эту систему для стриминга и записи аудио-потоков для радио-эфиров.
+- [Fedora](https://getfedora.org/)  
+  Использую систему на пользовательских ПК и серверах. Да, на некоторых серверах. :smile:
+- [CentOS](https://centos.org/) / [Oracle Linux](https://oracle.com/linux/)  
+  Использую эту промышленную систему исключительно на серверах.
+- [Ubuntu](https://ubuntu.com/) / [Debian](https://debian.org/)  
+  Ubuntu использовал в качестве домашней системы. На Debian работает несколько серверов в организациях.
+- [openSUSE](https://opensuse.org/)  
+  Неплохая система с автоматическим и простым конфигуратором. Раньше использовал в качестве домашней системы.
+
+### Администрирование
+
+- Shell ([Bash](https://gnu.org/software/bash/) / [Zsh](https://zsh.org/))  
+  Пишу скрипты для автоматизации различных действий на Bash (Zsh).
+- [RPM](https://en.wikipedia.org/wiki/RPM_Package_Manager)  
+  Собираю пакеты для CentOS и Fedora.
+- [DEB](https://en.wikipedia.org/wiki/APT_(software))  
+  Собираю пакеты для Debian.
+
+### CMS / CMF
+
+- [Drupal](https://drupal.org/)  
+  Предоставляет очень мощные возможности по управлению контентом. Люблю эту CMF.
+- [Flarum](https://flarum.org/)  
+  Неплохой, развивающийся форум. Являюсь разработчиком русской локализации этого движка.
+- [MediaWiki](https://mediawiki.org/)  
+  Для составления документации нет лучше инструмента, чем WIKI-система. Умею поднимать с единой системой авторизации пользователей и единым хранилищем медиа. Настраиваю WIKI-фермы.
+- [WordPress](https://wordpress.org/)  
+  Очень простой движок для сайтов различного назначения. Делаю небольшие модули и темы для этого движка.
+- [XenForo](https://xenforo.com/)  
+  Мощный движок для создания форума. От разработчиков vBulletin. Делаю небольшие модули и темы для этого движка.
+
+### Разработка
+
+- [HTML](https://w3.org/)  
+  Использую для разработки веб-приложений.
+- [CSS](https://w3.org/)  
+  В работе предпочитаю использовать Sass / SCSS.
+- [JavaScript](https://ecma-international.org/)  
+  Логика.
+- [PHP](https://php.net/)  
+  Пишу дополнения, модули, модификации, расширения для веб-приложений.
+
+---
+
+## Опыт
+
+Работал и работаю в этих компаниях и стартапах.
+
+### АО Институт ЭНЕРГОСЕТЬПРОЕКТ
+
+Комплексное проектирование электросетевых объектов, стратегическое планирование развития энергетики, осуществление научно-исследовательских, проектных и инжиниринговых работ в области создания систем управления в электроэнергетике, проведение энергетических обследований и энергоаудита, выполнение функции генерального проектировщика и генерального подрядчика.
+
+- Обязанности:
+  - Системный администратор UNIX.
+  - Установка и настройка общесистемного и прикладного ПО.
+  - Тестирование и модернизация компьютеров.
+  - Монтаж сетевого оборудования и линий ЛВС.
+  - Администрирование ЛВС предприятия (450 компьютеров, 10 серверов).
+
+- Проекты:
+  - Разработка и внедрение интернет-портала организации.
+  - Разработка и внедрение "облачного" сервиса.
+  - Разработка и внедрение базы данных по учёту ПО организации.
+  - Разработка и внедрение базы данных по учёту расходных средств.
+  - Разработка и внедрение системы ведение документации.
+  - Разработка и внедрение системы заказа экспертизы.
+
+---
+
+## Работы
+
+### Разработка
+
+- [Package Store](https://pkgstore.github.io/) <code class="print">https://pkgstore.github.io</code>  
+  Репозиторий пакетов для различных CMS / CMF и дистрибутивов Linux, скрипты автоматизации и сценарии GitHub Actions.
