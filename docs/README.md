@@ -6,7 +6,7 @@
 
 - **Имя:** Юрий Дунаев
 - **Псевдоним:** [z17 CX](https://keybase.io/z17cx)
-- **Контакты:** [z17 IM](https://z17.im) <code class="print">https://z17.im</code>
+- **Контакты:** [z17 TEL](https://z17.tel)
 
 ---
 
@@ -22,9 +22,9 @@
 Имеются собственные репозитории (собираю и обновляю пакеты):
 
 - Debian
-  - [OBS](https://build.opensuse.org/project/show/home:pkgstore:deb) <code class="print">https://build.opensuse.org/project/show/home:pkgstore:deb</code>
-- CentOS / Fedora
-  - [COPR](https://copr.fedorainfracloud.org/coprs/pkgstore/) <code class="print">https://copr.fedorainfracloud.org/coprs/pkgstore</code>
+  - [OBS](https://build.opensuse.org/project/show/home:pkgstore:deb)
+- CentOS / Fedora *(не обновляется...)*
+  - [COPR](https://copr.fedorainfracloud.org/coprs/pkgstore/)
 
 Устанавливаю и настраиваю компоненты системы, например, такие как:
 
@@ -43,12 +43,12 @@
 
 Являюсь автором модулей к движкам сайтов и форумов:
 
-- [Drupal](https://github.com/search?q=topic:drupal+org:pkgstore&type=Repositories) <code class="print">https://github.com/search?q=topic:drupal+org:pkgstore&type=Repositories</code>
-- [Flarum](https://github.com/search?q=topic:flarum+org:pkgstore&type=Repositories) <code class="print">https://github.com/search?q=topic:flarum+org:pkgstore&type=Repositories</code>
-- [MediaWiki](https://github.com/search?q=topic:mediawiki+org:pkgstore&type=Repositories) <code class="print">https://github.com/search?q=topic:mediawiki+org:pkgstore&type=Repositories</code>
-- [XenForo](https://github.com/search?q=topic:xenforo+org:pkgstore&type=Repositories) <code class="print">https://github.com/search?q=topic:xenforo+org:pkgstore&type=Repositories</code>
+- [Drupal](https://github.com/search?q=topic:drupal+org:pkgstore&type=Repositories)
+- [Flarum](https://github.com/search?q=topic:flarum+org:pkgstore&type=Repositories)
+- [MediaWiki](https://github.com/search?q=topic:mediawiki+org:pkgstore&type=Repositories)
+- [XenForo](https://github.com/search?q=topic:xenforo+org:pkgstore&type=Repositories)
 
-Создатель [русской локализации](https://discuss.flarum.org/d/1545) <code class="print">https://discuss.flarum.org/d/1545</code> движка [Flarum](https://flarum.org/).
+Создатель и куратор [русской локализации](https://discuss.flarum.org/d/1545) форумного движка [Flarum](https://flarum.org).
 
 ### Навыки
 
@@ -144,14 +144,16 @@
 
 ### Разработка
 
-- [Package Store](https://pkgstore.github.io/) <code class="print">https://pkgstore.github.io</code>  
+- [Package Store](https://pkgstore.github.io/)
   Репозиторий пакетов для различных CMS / CMF и дистрибутивов Linux, скрипты автоматизации и сценарии GitHub Actions.
 
 ---
 
-## Ресурсы
+## Ресурсы z17
 
 - [z17 Dev](https://z17.dev)  
   Изучение и разработка новых технологических решений.
-- [z17 IM](https://z17.im)  
+- [z17 TEL](https://z17.tel)  
   Общая контактная информация.
+- [z17 IM](https://z17.im)  
+  Список профилей в социальных сетях.
