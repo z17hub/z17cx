@@ -144,7 +144,7 @@
 
 ### Разработка
 
-- [Package Store](https://pkgstore.github.io/)
+- [Package Store](https://pkgstore.github.io/)  
   Репозиторий пакетов для различных CMS / CMF и дистрибутивов Linux, скрипты автоматизации и сценарии GitHub Actions.
 
 ---
